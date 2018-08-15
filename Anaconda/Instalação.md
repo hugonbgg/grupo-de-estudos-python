@@ -1,0 +1,7 @@
+Vamos utilizar o Anaconda (https://anaconda.org/) durante o nosso curso.
+
+O Anaconda é um software que agrega um conjunto de softwares e bibliotecas Python e que é de fácil instalação e configuração, permitindo ter
+um ambiente pronto para desenvolvimento Python em poucos cliques. Tem as principais bibliotecas Python por padrão e mais de 6 milhões de usuários
+no mundo.
+
+
