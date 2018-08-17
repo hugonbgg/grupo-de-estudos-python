@@ -7,5 +7,5 @@ Aqui vamos concentrar os exercícios das nossas aulas e os tutoriais que vamos u
 
 É só clicar no link acima que o tutorial de instalação do Anaconda deve abrir sem problemas.
 
-[Aula 1 - Configurando o Jupyter Notebook:]
+![Aula 1 - Configurando o Jupyter Notebook:]
 (teste)
